@@ -1,1 +1,0 @@
-#Pharmarcy Management
